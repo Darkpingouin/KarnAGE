@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+
+  "name": "KarnAGE",
+  "description": "This extension replace all words by karn",
+  "version": "1.0",
+
+  "browser_action":
+    {
+      "default_icon": "karn.png"
+    },
+
+  "content_scripts": [
+  {
+        "js": ["config.js", "facebook.js"],
+        "matches": ["https://www.facebook.com/*", "https://facebook.com/*", "https://messenger.com/*", "https://www.messenger.com/*", "https://www.messenger.com/*"]
+    }
+]
+}
