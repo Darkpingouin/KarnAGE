@@ -1,4 +1,4 @@
-# Clafoutweets
+# KarnAGE
 
 Simple chrome extension that replaces words by karn's face
 
