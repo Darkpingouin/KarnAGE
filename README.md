@@ -1,4 +1,5 @@
 # KarnAGE
+![Karn](https://i.imgur.com/xrxBvlT.png)
 
 Simple chrome extension that replaces words by karn's face
 
